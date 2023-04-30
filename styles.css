@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    color: gray;
+    text-align: center;
+}
+h2 {
+    color: darkgray;
+    padding: 25px;
+    border: 2px solid darkgray;
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
